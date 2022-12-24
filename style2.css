@@ -1,0 +1,80 @@
+<style type="text/css">
+.night #footer,.night #kratos-header-section, .night .sf-menu li a:hover, .night #kratos-header-section .sub-menu a:hover {
+background: #111;
+}
+
+.night, .night .sf-menu .current-menu-item, .night #kratos-header-section .sub-menu, .night .sf-menu .current-menu-parent {
+background-color: #1e1e1e !important;
+color: #d1d1d1 !important
+}
+
+.night .pagination>a:hover, .night .kratos-entry-footer a:hover,.night .tag_clouds a:hover, .night .kratos-entry-footer a:hover,.night .sf-menu li a:hover
+{
+background: #1e1e1e;
+color: #d1d1d1;
+}
+
+.night #kratos-widget-area .widget,.night .comment-respond,.night .comments-area .comment-list li,.night .hentry-content,.night .kratos-hentry,.night .kratos-post-meta-new,.night .kratos-post-text,.night .pagination {
+background-color: #323232;
+color: #d1d1d1
+}
+
+.night .kratos-post-content input,.night .kratos-post-content textarea {
+border: 1px solid #4a4a4a;
+background: #323232;
+color: #d1d1d1
+}
+
+.night #comments form input,.night #comments form textarea, .night #tabul .active,.night .card-header,.night .input-group-addon,.night .kratos-post-content h2,.night .kratos-post-content h4,.night .kratos-post-content ol,.night .pagination>a,.night .pagination>span,.night .post-content h2,.night .post-content h4, .night .kratos-entry-footer a,.night .sf-menu li.current-menu-item,.night .tag_clouds a, .night .kratos-entry-footer a, .night .today-m, .night #TA-con
+{
+background: #4a4a4a;
+color: #d1d1d1;
+}
+
+.night .aplayer,.night .audio_wrp, .night .archives h3, .night .card-body, .night .today-d, .night .li-icon, .night .archives ol li:before {
+background-color: #4a4a4a;
+color: #d1d1d1
+}
+
+.night #kratos-blog .kratos-post .kratos-post-text p,.night #footer span,.night #footer span a,.night #respond #reply-title,.night .comments-area .fn a,.night .hentry-content a,.night .kratos-post-meta-new .read-more,.night .post-content,.night .sf-menu a,.night #kratos-header-section .sub-menu a,.night .widget a,.night .widget-title,.night label,.night ol,.night p,.night ul, .night .text-primary, .night article a {
+color: #d1d1d1
+}
+
+.night .kratos-entry-title,.night .kratos-post-inner-new a {
+color: #00a2ff
+}
+
+.night .simple-item,.night .widget_kratos_comments .comment-listitem {
+border: 0
+}
+
+.night .comment p a, .night .kratos-post-meta span,.night .kratos-post-meta a {
+color: #464646
+}
+
+.night .gmeiCv,.night .libgWo,.night .libgWo * {
+color: #d1d1d1!important
+}
+
+.night .aplayer .aplayer-lrc:after,.night .aplayer .aplayer-lrc:before {
+border: 0;
+background: 0
+}
+
+.night #comments form input,.night #comments form textarea,.night .input-group-addon {
+border: 1px solid #4a4a4a
+}
+
+.night .comments-area .comment-list .children li {
+-webkit-box-shadow: 5px 5px 10px #1e1e1e;
+box-shadow: 5px 5px 10px #1e1e1e;
+}
+
+.night .deng-box,.night .deng-box1,.night .deng-t {
+background: 0 !important;
+}
+
+.night .home,.night .photo-background,.night .shici,.night img,.night svg, .night .aplayer-pic {
+filter: brightness(50%)
+}
+</style>
